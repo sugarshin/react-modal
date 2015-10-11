@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "element-class": "^0.2.0",
+    "fbjs": "^0.3.1",
     "lodash.assign": "^3.2.0"
   },
   "peerDependencies": {
